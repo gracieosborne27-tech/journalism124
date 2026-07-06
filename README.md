@@ -27,6 +27,9 @@ I also broke up the **Date** column, which was formatted as `YYYY-DD-MM`, into e
 
 This allowed me to perform my timeline and line graph analysis.
 
+## Visualizations
+
+
 ## Ethical Considerations
 
 Like said above, the limitations in the scope of this project lead to an incomplete picture. There are many cases of AI hallucinations reported in this database that occurred in U.S. courts, and while Charlotin points out that the U.S. court system has more transparency than other countries and a faster adoption of AI, it could also be that the data collection process is not comprehensive. A surface-level scan of the database may make one assume the U.S. inherently has more AI hallucination cases, when differences in transparency and reporting practices may partially explain that pattern. This could unintentionally create a skewed perception of U.S. judges, attorneys, and other legal professionals.
