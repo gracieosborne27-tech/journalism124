@@ -1,6 +1,3 @@
-# journalism124
-This is the Gracie Project, where she covers reported AI hallucination cases
-
 # AI Hallucinations Have Reached the Courtroom
 
 Imagine sitting in the pew of a courtroom, trusting that your lawyer, with their pedigree and skills, has developed a solid case in your defense. Suddenly, you hear the judge drill your lawyer, asking if the evidence your lawyer provided was AI-generated, since, upon reviewing the cited case law, the citations presented were not real. The air is heavy and dry. To everyone's shock, your lawyer admits they did use AI in the crafting of their argument.
