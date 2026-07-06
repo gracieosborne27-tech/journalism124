@@ -35,16 +35,16 @@ Here is what each AI hallucination category in this dataset means:
  - False Quotes: AI generates fake quotes or holdings regarding a real case
 
 
-![bar chart](Fig1.png)
+![bar chart that visualizes the count of court cases that were flagged for AI misrepresentation occurrence in the U.S. (2023–2026)](Fig1.png)
 
 
 This graph visualizes the count of court cases that were flagged for AI misrepresentation occurrence in the U.S. (2023–2026)
 
 Source: Damien Charlotin, AI Hallucination Cases Database. Analysis by Gracie Osborne. 
-Alt text: Bar chart showing the number of cases with reported AI misrepresentations. Out of the total 1187 cases where AI hallucinations were caught, 790 were identified with no misrepresentation, and 397 were identified with AI misrepresentation. 
+Bar chart showing the number of cases with reported AI misrepresentations. Out of the total 1187 cases where AI hallucinations were caught, 790 were identified with no misrepresentation, and 397 were identified with AI misrepresentation. 
 
 
-![line graph](Fig2.png)
+![line graph that visualizes the trend of the number of AI hallucinations identified in the U.S. court cases between the years of 2023-2026 (all the way up to the end of June of 2026).](Fig2.png)
 
 
 
@@ -53,14 +53,14 @@ This graph visualizes the trend of the number of AI hallucinations identified in
 Source: Damien Charlotin, AI Hallucination Cases Database. Analysis by Gracie Osborne. 
 Alt text: Line graph showing the number of cases with reported AI hallucinations in each year. The line graph shows an increasing trend of AI hallucinations reported in court cases. 
 
-![bar chart](Fig3.png)
+![bar chart that visualizes the number of professional sanctions issued in AI hallucination cases in U.S. Courts (2023–2026). ](Fig3.png)
 
 
 
 This graph visualizes the number of professional sanctions issued in AI hallucination cases in U.S. Courts (2023–2026). 
 
 Source: Damien Charlotin, AI Hallucination Cases Database. Analysis by Gracie Osborne. 
-Alt text: Bar chart comparing the number of reported AI hallucination cases that resulted in professional sanctions versus those that did not. 1090 reported cases did not result in a professional sanction out of the 1187 cases in the database.
+Bar chart comparing the number of reported AI hallucination cases that resulted in professional sanctions versus those that did not. 1090 reported cases did not result in a professional sanction out of the 1187 cases in the database.
 
 ## Ethical Considerations
 
