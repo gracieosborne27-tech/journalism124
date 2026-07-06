@@ -29,9 +29,34 @@ This allowed me to perform my timeline and line graph analysis.
 
 ## Visualizations
 
+Here is what each AI hallucination category means: 
+ - Fabrication:
+ - Misrepresentation:
+ - False Quotes: 
+Here is a ![bar chart](Fig1.png)
+
+This graph visualizes the count of court cases that were flagged for AI misrepresentation occurence in the U.S. (2023–2026)
+
+Source: Damien Charlotin, AI Hallucination Cases Database. Analysis by Gracie Osborne. 
+Alt text: Bar chart showing the number of cases with reported AI misrepresentations. Out of the total 1187 cases where AI hallucinations were caught, 790 were identified with no misrepresentation, and 397 were identified with AI misrepresentation. 
+
+
+Here is a ![line graph](Fig2.png)
+
+This graph visualizes the trend of the number of AI hallucinations identified in the U.S. court cases between the years of 2023-2026 (all the way up to the end of June of 2026). 
+
+Source: Damien Charlotin, AI Hallucination Cases Database. Analysis by Gracie Osborne. 
+Alt text: Line graph showing the number of cases with reported AI hallucinations in each year. The line graph shows an increasing trend of AI hallucinations reported in court cases. 
+
+Here is a ![bar chart](Fig3.png)
+
+This graph visualizes the number of professional sanctions issued in AI hallucination cases in U.S. Courts (2023–2026). 
+
+Source: Damien Charlotin, AI Hallucination Cases Database. Analysis by Gracie Osborne. 
+Alt text: Bar chart comparing the number of reported AI hallucination cases that resulted in professional sanctions versus those that did not. 1090 reported cases did not result in a professional sanction out of the 1187 cases in the database.
 
 ## Ethical Considerations
 
 Like said above, the limitations in the scope of this project lead to an incomplete picture. There are many cases of AI hallucinations reported in this database that occurred in U.S. courts, and while Charlotin points out that the U.S. court system has more transparency than other countries and a faster adoption of AI, it could also be that the data collection process is not comprehensive. A surface-level scan of the database may make one assume the U.S. inherently has more AI hallucination cases, when differences in transparency and reporting practices may partially explain that pattern. This could unintentionally create a skewed perception of U.S. judges, attorneys, and other legal professionals.
 
-Additionally, many tools used to identify AI hallucinations were not developed during the initial rise of large language models in 2022 and 2023. As each year goes on, there is a greater awareness of the need to cross-check AI-generated information. This is important to note because there is also a chance that the lower number of reported cases from 2023 and 2024 does not necessarily mean there were fewer AI hallucinations, but rather that many hallucinations, especially misrepresentations, went under the radar. So maybe the surge we are seeing right now is not necessarily an actual surge in AI hallucinations. To make this a more complete story, I would compare the data with another publicly available court record database.
+Additionally, many tools used to identify AI hallucinations were not developed during the initial rise of large language models in 2022 and 2023. As each year goes on, there is a greater awareness of the need to cross-check AI-generated information. This is important to note because there is also a chance that the lower number of reported cases from 2023 and 2024 does not necessarily mean there were fewer AI hallucinations, but rather that many hallucinations, especially misrepresentations, went under the radar. So maybe the surge we are seeing right now is not necessarily an actual surge in AI hallucinations. To make this a more complete story, I would compare the data with another publicly available court record database. Overall, this story is important as AI is rapidly being included in many professions' workflows, including in law. AI hallucinations put the integrity of one's case in jeopardy. Legal professionals must cross-check all information to ensure evidence is accurate. 
